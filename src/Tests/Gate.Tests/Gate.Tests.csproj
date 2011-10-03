@@ -56,6 +56,7 @@
     <Compile Include="Startup.cs" />
     <Compile Include="StartupTests\Loader\DefaultConfigurationLoaderTests.cs" />
     <Compile Include="UrlMapperTests.cs" />
+    <Compile Include="XForwardedForTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
